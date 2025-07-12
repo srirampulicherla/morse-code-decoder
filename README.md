@@ -11,8 +11,4 @@ Even though the idea and logic are my own, I developed this using AI.
 - Simple and lightweight implementation
 - Great for learning and experimenting with encoding/decoding
 
-# Future Plans
-- Add GUI version
-- Enable live decoding from flashlight input (camera integration)
-
 **Note**: This project was built for educational and demonstration purposes.
